@@ -6,7 +6,7 @@ This directory contains trusted public keys for SLSA L3 artifact and attestation
 
 ```
 keys/
-├── <builder-id>.pub     # One PEM-encoded public key per trusted builder
+├── activesalsa.pub     # One PEM-encoded public key per trusted builder
 └── README.md
 ```
 
